@@ -10,7 +10,7 @@ namespace ConsoleAppGitSchulung
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Martin Schorr"); //AK
+            Console.WriteLine("Martin Schorr"); //AKMS
             Console.WriteLine("Datum");
             Console.ReadLine();
         }

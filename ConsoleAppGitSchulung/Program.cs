@@ -11,6 +11,7 @@ namespace ConsoleAppGitSchulung
         static void Main(string[] args)
         {
             Console.WriteLine("Martin Schorr");
+            Console.WriteLine("Datum");
             Console.ReadLine();
         }
     }
